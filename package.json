@@ -1,0 +1,26 @@
+{
+  "name": "discord-isticjs",
+  "version": "1.0.0",
+  "description": "ISTIC Discord Bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazimboudeffa/discord-isticjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazimboudeffa/discord-isticjs/issues"
+  },
+  "homepage": "https://github.com/nazimboudeffa/discord-isticjs#readme"
+}
